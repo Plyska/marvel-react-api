@@ -170,3 +170,17 @@ input[type="text"] {
     transform: rotate(360deg);
   }
 }
+
+.details-box {
+  width: 50%;
+  display: flex;
+  flex-direction: row;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.details-box-text {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
